@@ -1,1 +1,2 @@
-Trying to make first commit 
+Trying to make first commit
+Trying to commit using CLI
